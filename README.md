@@ -1,4 +1,4 @@
-# HarmonicAlgebraQuiz
+# HarmonicAlgebraQuiz 
 Ear trainer and circle-of-fifths quiz application for Android - https://play.google.com/store/apps/details?id=cz.ktweb.harmonicalgebraquiz 
 
 Provides:
