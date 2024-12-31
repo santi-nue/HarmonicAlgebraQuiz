@@ -1,1 +1,2 @@
 include ':app', ':MidiDriver-1.16'
+rootProject.name = "HarmonicAlgebraQuiz"
