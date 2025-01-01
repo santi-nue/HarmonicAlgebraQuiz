@@ -55,6 +55,9 @@
         <activity android:name=".MenuProgressionActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:screenOrientation="portrait" />
+
+         <uses-permission android:name="android.permission.MIDI" />
+        
     </application>
 
 </manifest>
