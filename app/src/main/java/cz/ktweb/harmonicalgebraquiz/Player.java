@@ -55,7 +55,8 @@ public class Player implements MidiDriver.OnMidiStartListener{
 
     public void init() {
         // Instantiate the driver.
-        midiDriver = new MidiDriver();
+        // midiDriver = new MidiDriver();
+        midiDriver = MidiDriver.getInstance(this);
         // Set the listener.
         midiDriver.setOnMidiStartListener(this);
         Log.d("midi", "init");
